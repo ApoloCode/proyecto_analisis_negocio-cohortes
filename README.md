@@ -6,7 +6,7 @@ Lo que tienes:
 - registros del servidor con datos sobre las visitas a Y.Afisha desde enero de 2017 hasta diciembre de 2018;
 - archivo de volcado con todos los pedidos del período;
 - estadísticas de gastos de marketing.
-- 
+  
 Lo que vas a investigar:
 - cómo la gente usa el producto;
 - cuándo empiezan a comprar;
